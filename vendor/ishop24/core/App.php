@@ -10,7 +10,8 @@ class App{
         $query = trim($_SERVER['QUERY_STRING'], '/');
         session_start();
         self::$app = Registry::instance();
-        $this->getParams();
+		  $this->getParams();
+		  new ErrorHandler();
     }
 
     protected function getParams(){
