@@ -142,3 +142,73 @@
 =================
 [2020-06-05 14:39:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
 =================
+[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+=================
+[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+=================
+[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+=================
+[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-10 16:16:14] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+=================
+[2020-06-10 16:16:40] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+=================
+[2020-06-10 16:51:27] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:53:27] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:53:53] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:53:53] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:53:57] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:23] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+=================
+[2020-06-10 17:46:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-12 09:33:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-12 10:24:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-12 10:26:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-15 13:57:23] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-25 16:18:20] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-27 08:28:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-06-27 09:28:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-07-01 09:17:30] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-07-03 09:20:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
+[2020-07-06 12:03:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+=================
