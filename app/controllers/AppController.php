@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers;
+namespace app\controllers;
 
 use ishop24\base\Controller;
 
