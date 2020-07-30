@@ -218,3 +218,43 @@
 =================
 [2020-07-07 11:07:35] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Main/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 37
 =================
+[2020-07-07 12:28:47] Текст ошибки: Class 'app\controllers\App' not found | Файл: W:\domains\ishop24\app\controllers\MainController.php | Строка: 10
+=================
+[2020-07-07 13:08:05] Текст ошибки: Call to undefined function app\controllers\setMeta() | Файл: W:\domains\ishop24\app\controllers\MainController.php | Строка: 10
+=================
+[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-10 17:41:24] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-11 22:37:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-20 13:14:01] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-20 16:28:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-20 16:57:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-20 17:39:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-21 14:31:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-22 10:09:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-24 15:24:25] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-27 09:27:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-27 20:12:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-28 09:25:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-29 09:29:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-29 14:29:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-07-30 09:28:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
