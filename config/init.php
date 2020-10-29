@@ -9,7 +9,7 @@ define("LIBS", ROOT . '/vendor/ishop24/core/libs');
 define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
 // шаблон
-define("LAYOUT", 'default');
+define("LAYOUT", 'watches');
 
 // http://ishop24:8080/public/index.php
 $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";

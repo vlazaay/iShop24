@@ -1,260 +1,1136 @@
-[2020-06-04 17:26:40] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-09 09:43:14] Текст ошибки: Нет соединения с БД | Файл: W:\domains\ishop24\vendor\ishop24\core\Db.php | Строка: 14
 =================
-[2020-06-04 17:26:40] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-09 10:46:26] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: W:\domains\ishop24\app\controllers\MainController.php | Строка: 14
 =================
-[2020-06-04 17:26:40] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:16:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:26:53] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:26:53] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:27:03] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:27:04] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:27:27] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:27:27] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:58] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:58] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:59] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:21:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:59] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:26:42] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:59] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:26:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:59] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:26:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:38:59] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:29:42] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:00] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:29:44] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:04] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:39:04] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:04] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:39:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:04] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:39:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:04] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:39:14] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:14] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 10:39:17] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:14] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 11:02:52] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:14] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 11:02:55] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:15] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 12:07:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:15] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 12:07:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:39:15] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 13:58:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:51] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 13:58:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:51] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:00:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:51] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:51:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:52] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:51:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:52] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:59:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:44:52] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:59:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 14:59:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 15:26:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:18] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 15:32:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:18] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-11 15:32:18] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:20] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-12 09:17:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:20] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-12 09:17:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:21] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 10:10:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:21] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 10:22:44] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:21] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 10:23:55] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:21] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 10:23:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:24] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:43:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:24] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:44:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:24] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:49:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:24] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:49:10] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:25] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:49:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:25] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:50:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:25] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:51:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:25] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:55:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:27] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:56:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:45:27] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:56:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:11] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:56:35] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:11] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 11:57:25] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:13] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 12:09:39] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:13] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 12:09:39] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:28] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-14 14:47:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:47:28] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 09:55:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:50:13] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 10:42:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:50:13] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 10:42:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:50:55] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 10:42:34] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:50:55] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 11:39:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:53:57] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 11:43:55] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:53:57] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 11:43:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-04 17:54:19] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 11:59:43] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
 =================
-[2020-06-04 17:54:19] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 12:01:26] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop24\app\controllers\CurrencyController.php | Строка: 11
 =================
-[2020-06-04 20:23:22] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 12:16:42] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop24\app\controllers\CurrencyController.php | Строка: 12
 =================
-[2020-06-04 20:23:23] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 12:16:47] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop24\app\controllers\CurrencyController.php | Строка: 12
 =================
-[2020-06-05 14:39:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 15:32:24] Текст ошибки: syntax error, unexpected ')' | Файл: W:\domains\ishop24\app\controllers\AppController.php | Строка: 24
 =================
-[2020-06-05 14:39:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 15:41:57] Текст ошибки: Too few arguments to function ishop24\Registry::setProperty(), 1 passed in W:\domains\ishop24\app\controllers\AppController.php on line 19 and exactly 2 expected | Файл: W:\domains\ishop24\vendor\ishop24\core\Registry.php | Строка: 11
 =================
-[2020-06-05 14:39:17] Текст ошибки: страница не найдена | Файл: W:\domains\ishop24\public\index.php | Строка: 7
+[2020-09-15 15:41:59] Текст ошибки: Too few arguments to function ishop24\Registry::setProperty(), 1 passed in W:\domains\ishop24\app\controllers\AppController.php on line 19 and exactly 2 expected | Файл: W:\domains\ishop24\vendor\ishop24\core\Registry.php | Строка: 11
 =================
-[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+[2020-09-15 16:23:39] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+[2020-09-15 16:32:43] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 15:38:36] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+[2020-09-15 17:03:50] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-15 17:08:25] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-15 17:21:25] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 15:38:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:14:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:16:14] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+[2020-09-16 09:15:34] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:16:40] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 34
+[2020-09-16 09:21:55] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:51:27] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:22:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:53:27] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:37:14] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 16:53:53] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:42:12] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 16:53:53] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:43:19] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
 =================
-[2020-06-10 16:53:57] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:23] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:24] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 16:55:25] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 31
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-10 17:46:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-12 09:33:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-12 10:24:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-12 10:26:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-15 13:57:23] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-25 16:18:20] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-27 08:28:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:45:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-06-27 09:28:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-01 09:17:30] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-03 09:20:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-06 12:03:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-06 13:59:01] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-07 10:54:58] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-07 11:07:35] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Main/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 37
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-07 12:28:47] Текст ошибки: Class 'app\controllers\App' not found | Файл: W:\domains\ishop24\app\controllers\MainController.php | Строка: 10
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-07 13:08:05] Текст ошибки: Call to undefined function app\controllers\setMeta() | Файл: W:\domains\ishop24\app\controllers\MainController.php | Строка: 10
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-10 12:41:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-10 17:41:24] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-11 22:37:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-20 13:14:01] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-20 16:28:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-20 16:57:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-20 17:39:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-21 14:31:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-22 10:09:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-24 15:24:25] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-27 09:27:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-27 20:12:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-28 09:25:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-29 09:29:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-29 14:29:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
-[2020-07-30 09:28:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 09:49:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 11:31:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 11:49:27] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-16 11:49:35] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-16 11:49:40] Текст ошибки: syntax error, unexpected ')' | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 11
+=================
+[2020-09-16 12:02:19] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 13
+=================
+[2020-09-16 16:58:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-16 16:58:48] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 10:19:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 11:29:44] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 11:29:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 15:25:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 15:25:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 16:05:34] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-18 16:12:39] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 37
+=================
+[2020-09-18 16:12:39] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 16:12:39] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-18 16:12:39] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-21 13:16:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-21 14:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-21 14:56:05] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-21 15:00:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:34:32] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 09:55:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 10:14:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 10:15:02] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 10:16:14] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 10:49:13] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 10:49:15] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 10:49:17] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 11:01:20] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 11:01:44] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 11:01:46] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 11:01:59] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 154
+=================
+[2020-09-22 11:02:55] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 11:46:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 11:53:37] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 11:55:09] Текст ошибки: syntax error, unexpected ';' | Файл: W:\domains\ishop24\app\views\Product\view.php | Строка: 144
+=================
+[2020-09-22 12:59:13] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 13:16:49] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:37] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:38] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:39] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:39] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:39] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:19:40] Текст ошибки: Too few arguments to function app\models\Product::getAllRecentlyViewed(), 0 passed in W:\domains\ishop24\app\models\Product.php on line 10 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 20
+=================
+[2020-09-22 13:38:52] Текст ошибки: Too few arguments to function app\models\Product::getRecentlyViewed(), 0 passed in W:\domains\ishop24\app\controllers\ProductController.php on line 30 and exactly 1 expected | Файл: W:\domains\ishop24\app\models\Product.php | Строка: 24
+=================
+[2020-09-22 13:41:16] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 34
+=================
+[2020-09-22 13:41:18] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 34
+=================
+[2020-09-22 13:41:20] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 34
+=================
+[2020-09-22 13:57:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 14:59:07] Текст ошибки: Class 'app\models\App' not found | Файл: W:\domains\ishop24\app\models\Breadcrumbs.php | Строка: 10
+=================
+[2020-09-22 15:09:10] Текст ошибки: Class 'app\models\App' not found | Файл: W:\domains\ishop24\app\models\Breadcrumbs.php | Строка: 10
+=================
+[2020-09-22 15:16:27] Текст ошибки: Class 'app\models\App' not found | Файл: W:\domains\ishop24\app\models\Breadcrumbs.php | Строка: 10
+=================
+[2020-09-22 15:16:57] Текст ошибки: Class 'app\models\App' not found | Файл: W:\domains\ishop24\app\models\Breadcrumbs.php | Строка: 10
+=================
+[2020-09-22 15:17:01] Текст ошибки: Class 'app\models\App' not found | Файл: W:\domains\ishop24\app\models\Breadcrumbs.php | Строка: 10
+=================
+[2020-09-22 15:18:29] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:18:32] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:18:35] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:18:42] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:18:47] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:18:52] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-22 15:22:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\app\controllers\ProductController.php | Строка: 17
+=================
+[2020-09-22 15:24:25] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 17:24:19] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\layouts\watches.php | Строка: 161
+=================
+[2020-09-22 17:24:22] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\layouts\watches.php | Строка: 161
+=================
+[2020-09-22 17:34:10] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-22 17:44:10] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 10:50:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 10:50:27] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 11:52:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 12:11:55] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:12:02] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:12:10] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:12:33] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:24:50] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:25:19] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:26:04] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:27:42] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:27:52] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:28:43] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:28:47] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:28:53] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:29:20] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:29:36] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-23 12:29:56] Текст ошибки: Метод app\controllers\CartController::addAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 12:29:59] Текст ошибки: Метод app\controllers\CartController::addAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 12:36:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 12:36:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 12:36:20] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 12:53:56] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 12:53:56] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 12:54:02] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 12:58:58] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 12:59:02] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 13:16:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 13:20:38] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 13:20:40] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Cart/add.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-23 13:27:24] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 13:46:12] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 14:58:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:04:04] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:05:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:19:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:55:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:55:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:56:35] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:56:35] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:56:35] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:59:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:59:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 15:59:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:02:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:02:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:02:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:04:04] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:04:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:06:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:07:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:09:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:09:38] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:12:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:22:11] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:22:14] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:22:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:22:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:22:53] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:22:56] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:23:18] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:23:29] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:24:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:24:32] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:25:19] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:26:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:38:26] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:38:29] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:41:54] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:41:56] Текст ошибки: Метод app\controllers\CartController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 16:43:49] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:44:01] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:44:03] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:44:09] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:44:10] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:44:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 16:52:44] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 17:05:59] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 17:06:02] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 17:06:03] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-23 17:30:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 17:30:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 17:34:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-23 17:34:46] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-24 09:15:48] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 10:56:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 10:56:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 12:54:23] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 12:54:24] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 14:55:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-24 14:55:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-25 11:10:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-25 11:17:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-25 11:34:17] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-26 21:23:58] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-26 21:23:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 11:32:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 13:03:42] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: W:\domains\ishop24\app\models\Cart.php | Строка: 88
+=================
+[2020-09-28 13:57:25] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 15:27:25] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-28 15:35:40] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-28 17:12:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 17:29:58] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-28 17:30:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 17:33:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 17:33:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-28 17:37:16] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-28 17:37:59] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-28 17:49:15] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-28 17:49:24] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-28 17:51:38] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Search/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-28 17:52:25] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Search/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 09:54:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-29 09:55:08] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Search/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 10:55:10] Текст ошибки: Call to undefined function app\controllers\h() | Файл: W:\domains\ishop24\app\controllers\SearchController.php | Строка: 23
+=================
+[2020-09-29 11:06:28] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Search/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 11:34:47] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\Search\index.php | Строка: 20
+=================
+[2020-09-29 11:47:48] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-29 12:04:59] Текст ошибки: Метод app\controllers\CategoryController::menAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-29 12:05:19] Текст ошибки: Метод app\controllers\CategoryController::casioAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-09-29 12:08:37] Текст ошибки: Class 'app\models\Category' not found | Файл: W:\domains\ishop24\app\controllers\CategoryController.php | Строка: 19
+=================
+[2020-09-29 12:13:28] Текст ошибки: Call to undefined method app\models\Category::getIds() | Файл: W:\domains\ishop24\app\controllers\CategoryController.php | Строка: 20
+=================
+[2020-09-29 12:16:56] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:22:25] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:26:20] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:26:32] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:32:01] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:32:35] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:33:03] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:33:09] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:33:13] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:33:17] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:39:07] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:39:54] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:39:55] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Category/view.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-09-29 12:47:16] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\Category\view.php | Строка: 20
+=================
+[2020-09-29 12:47:18] Текст ошибки: Class 'ishop\App' not found | Файл: W:\domains\ishop24\app\views\Category\view.php | Строка: 20
+=================
+[2020-09-29 12:56:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-29 15:41:30] Текст ошибки: syntax error, unexpected '$perpage' (T_VARIABLE) | Файл: W:\domains\ishop24\app\controllers\CategoryController.php | Строка: 19
+=================
+[2020-09-29 15:41:32] Текст ошибки: syntax error, unexpected '$perpage' (T_VARIABLE) | Файл: W:\domains\ishop24\app\controllers\CategoryController.php | Строка: 19
+=================
+[2020-09-30 09:48:03] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-30 09:48:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-30 12:32:01] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-30 12:32:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-09-30 12:45:00] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop24.products' doesn't exist | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-09-30 13:13:45] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 13:20:45] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 13:20:48] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 13:22:57] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 13:35:41] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 13:35:45] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 15:29:37] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-09-30 16:06:20] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-06 09:22:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-07 13:34:49] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 09:37:42] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 09:37:45] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 10:23:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 10:24:56] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-08 10:53:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 10:55:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:03:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:06:49] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:06:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:07:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:07:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:08:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:08:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:13:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 11:48:52] Текст ошибки: Class 'app\controllers\User' not found | Файл: W:\domains\ishop24\app\controllers\UserController.php | Строка: 10
+=================
+[2020-10-08 12:32:14] Текст ошибки: Class 'ishop\Db' not found | Файл: W:\domains\ishop24\vendor\ishop24\core\base\Model.php | Строка: 17
+=================
+[2020-10-08 12:32:26] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:32:35] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:32:55] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:38] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:40] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:47] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:48] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:48] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:48] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:48] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:35:49] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:12] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:12] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:12] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:13] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:14] Текст ошибки: Fail to load language file 'W:\domains\ishop24/public/validator/lang/ru.php' | Файл: W:\domains\ishop24\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-10-08 12:40:54] Текст ошибки: Call to undefined method app\models\User::getErrors() | Файл: W:\domains\ishop24\app\controllers\UserController.php | Строка: 15
+=================
+[2020-10-08 13:50:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 14:32:48] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:42:30] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:48:23] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:49:19] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:49:20] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:49:24] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:49:43] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:50:08] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 14:57:50] Текст ошибки: syntax error, unexpected ')' | Файл: W:\domains\ishop24\app\controllers\UserController.php | Строка: 14
+=================
+[2020-10-08 14:58:35] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'login' | Файл: W:\domains\ishop24\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+=================
+[2020-10-08 16:14:42] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:32:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:51:14] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:55:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:55:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:24] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:56:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-08 16:58:32] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 09:21:34] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 09:56:47] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop24\app\controllers\UserController.php | Строка: 22
+=================
+[2020-10-09 10:16:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 10:21:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 10:26:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 10:46:03] Текст ошибки: Метод app\controllers\UserController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 11:39:32] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 16:14:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-09 16:32:44] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 16:33:30] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 16:38:56] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 16:57:24] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 17:04:39] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-09 19:17:17] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-10 09:28:21] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-10 09:31:56] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-10 09:35:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-10 09:45:52] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-10 09:46:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-12 13:53:32] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-15 17:02:52] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-15 18:10:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-15 18:11:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 10:02:38] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 10:39:19] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:00:24] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:02:32] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:25] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:34] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:34] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:48] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:49] Текст ошибки: Контроллер app\controllers\PolitikaController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 11:07:51] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 11:09:15] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:09:16] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:09:55] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:10:00] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:10:01] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:11:26] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:11:26] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:11:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 11:11:43] Текст ошибки: На найден вид W:\domains\ishop24/app/views/Politic/index.php | Файл: W:\domains\ishop24\vendor\ishop24\core\base\View.php | Строка: 38
+=================
+[2020-10-16 11:13:10] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 11:13:12] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 11:13:20] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 13:29:38] Текст ошибки: Метод app\controllers\PoliticController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 13:30:16] Текст ошибки: Метод app\controllers\PoliticController::showAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 13:30:51] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:30:52] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:03] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:05] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:08] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:27] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:32] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:36] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:57] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:31:59] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:39:02] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 13:41:17] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:42:19] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:45:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 13:46:35] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:47:13] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:47:16] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:47:38] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:47:41] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:47:45] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:49:34] Текст ошибки: Контроллер app\controllers\PoliticController не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 36
+=================
+[2020-10-16 13:51:08] Текст ошибки: Call to undefined method app\controllers\PoliticController::loadView() | Файл: W:\domains\ishop24\app\controllers\PoliticController.php | Строка: 10
+=================
+[2020-10-16 13:51:21] Текст ошибки: Call to undefined method app\controllers\PoliticController::loadView() | Файл: W:\domains\ishop24\app\controllers\PoliticController.php | Строка: 10
+=================
+[2020-10-16 13:56:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 13:56:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 14:05:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-16 14:08:06] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-16 14:08:15] Текст ошибки: Метод app\controllers\PoliticController::indexAction не найден | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 33
+=================
+[2020-10-19 13:10:55] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-20 10:52:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-20 11:06:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-21 08:48:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-21 08:48:52] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-21 11:45:31] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-21 12:03:16] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-21 12:04:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-23 09:53:10] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-23 11:31:44] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-23 13:32:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-23 14:26:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 10:56:56] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 15:23:23] Текст ошибки: Failed to authenticate on SMTP server with username "ishop24@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: W:\domains\ishop24\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-10-26 15:38:34] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 15:38:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 15:39:03] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 15:39:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 15:56:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 17:33:21] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 17:33:23] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 17:33:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:08:26] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:09:38] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:16:43] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:19:11] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:22:54] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
+=================
+[2020-10-26 18:27:29] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop24\vendor\ishop24\core\Router.php | Строка: 39
 =================
